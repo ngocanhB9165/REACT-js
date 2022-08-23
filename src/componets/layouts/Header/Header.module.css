@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Quicksand';
+}
+@font-face {
+    font-family: 'Quicksand';
+    src: url(../../../font/Quicksand-Medium.ttf);
+}
+.bg-top{
+    background-color: #2d6b56;
+}
+.head-top{
+    background-color: #2d6b56;
+    padding: 10px 0px;
+    align-items: center !important;
+}
+.bg-main{
+    background-color: #2d6b56;
+}
+.text{
+    font-size: 14px;
+}
+.search{
+    position: relative;
+}
+.input{
+    padding: 4px 60px 4px 4px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    color: rgba(0, 0, 0, 0.699);
+}
+::placeholder{
+    font-size: 14px;
+}
+.search .icon{
+    position: absolute;
+    top: 5px;
+    right: 6px;
+}
+.font-icon{
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+}
+@media screen and (max-width: 768px) {
+    .head-left{
+        display: none ;
+    }
+    .head-right{
+        display: none;
+    }
+    .menu{
+        display: none;
+    }
+    .logo{
+        margin-left: 200px ;
+    }
+}

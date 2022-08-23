@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Quicksand';
+}
+@font-face {
+    font-family: 'Quicksand';
+    src: url(../../../font/Quicksand-Medium.ttf);
+}
+.line{
+    border-bottom:1px solid #ccc ;
+    width: 100%;
+}
+.form-group{
+    padding-right: 30px;
+}
+.btn-group{
+    border: 1px solid #9f9f9f ;
+}
+.num{
+    border: none !important;
+    background-color: white !important;
+    font-weight: bold;
+    width: 30px;
+    text-align: center;
+}
+.buy{
+    margin-left: 20px;
+}
+.buy button{
+    padding: 8px 100px;
+    border: none !important;
+    background-color: red;
+    color: aliceblue;
+    font-weight: bold;
+}
+.d-bot ul li {
+    list-style: none;
+}
+.d-bot ul li a{
+    color: #6b6969;
+    font-size: 14px;
+    text-decoration: none;
+    margin-right: 100px;
+}
+.d-bot ul li a:hover{
+    font-weight: bold;
+    
+}
+.w{
+    width: 10%;
+}

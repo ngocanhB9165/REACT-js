@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Quicksand';
+}
+@font-face {
+    font-family: 'Quicksand';
+    src: url(../../../font/Quicksand-Medium.ttf);
+}
+.color{
+    color: #2d6b56;
+}

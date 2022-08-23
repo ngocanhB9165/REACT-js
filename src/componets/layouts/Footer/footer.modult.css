@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Quicksand';
+}
+@font-face {
+    font-family: 'Quicksand';
+    src: url(../../../font/Quicksand-Medium.ttf);
+}
+.banner-bottom{
+    width: 1160px;
+}
+.w-32{
+    width: 32%;
+}
+.banner{
+    position: relative;
+}
+.banner-bottom{
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,70%);
+}
+.bg-bottom{
+    background: #232323;
+}
+.footer-bottom{
+    background-color: black;
+}

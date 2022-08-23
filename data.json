@@ -1,0 +1,166 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "Ao"
+        },
+        {
+            "id": 2,
+            "name": "Quan"
+        },
+        {
+            "id": 3,
+            "name": "Mu"
+        },
+        {
+            "id": 4,
+            "name": "Tui"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "TSUN Coconut Tee - Tan",
+            "price": 69,
+            "discount": 54,
+            "category_id": 1,
+            "img": "https://product.hstatic.net/1000321269/product/18a99bd0b7b04458ace615243ccd266f_84d4383a0d684c5297e407dae6913cda_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 2,
+            "name": "TSUN Coconut Tee - White",
+            "price": 89,
+            "discount": 79,
+            "category_id": 1,
+            "img": "https://product.hstatic.net/1000321269/product/ban_sao_cua_4j1ec85d-1-f86k-hinh_mat_truoc-0_36c0cd2aa68b4ccbbdff8477e5a7585a_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 3,
+            "name": "TSUN Love Cart Tee - Green",
+            "price": 99,
+            "discount": 79,
+            "category_id": 1,
+            "img": "https://product.hstatic.net/1000321269/product/8u0thbwz-1-izis-hinh_mat_truoc-0_47c5f7dc5b044f0bbfcf1d1d060416ee_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016. "
+        },
+        {
+            "id": 4,
+            "name": "TSUN Love Cart Tee - White ",
+            "price": 78,
+            "discount": 56,
+            "category_id": 1,
+            "img": "https://product.hstatic.net/1000321269/product/ban_sao_cua_ban_sao_cua_ban_sao_cua_gxcj3m5h-1-6we8-hinh_mat_truoc-0_964f8c577e54467a9785d2216679c0ee_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016. "
+        },
+        {
+            "id": 5,
+            "name": "TSUN Hand Sign Tee - Black",
+            "price": 35,
+            "discount": 29,
+            "category_id": 1,
+            "img": "https://product.hstatic.net/1000321269/product/ban_sao_cua_r1qimlhb-1-h82e-hinh_mat_truoc-0_a9e83bdfa0404c088626e9d913f6078c_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 6,
+            "name": "TSUN Reflective Line Pants - Black",
+            "price": 89,
+            "discount": 78,
+            "category_id": 2,
+            "img": "https://product.hstatic.net/1000321269/product/0c937459-f80b-4e5c-b75d-37572cf69d79_0ffc7c85d03641d3a8ea40be8b75a883_master.jpeg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 7,
+            "name": "TSUN Trousers/ Black ",
+            "price": 79,
+            "discount": 45,
+            "category_id": 2,
+            "img": "https://product.hstatic.net/1000321269/product/d90f5c96-39ec-45fb-bacd-17cf11e93fe2_f69f915d99d842bc927a4b55e4163881_master.jpeg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 8,
+            "name": "TS Cap - Green",
+            "price": 75,
+            "discount": 35,
+            "category_id": 3,
+            "img": "https://product.hstatic.net/1000321269/product/ban_sao_cua_aq5b8jv5-1-8m1a-hinh_nghieng_trai-0_58904b2aa9e0420daca88b18626d4226_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 9,
+            "name": "TS Cap - Black",
+            "price": 96,
+            "discount": 48,
+            "category_id": 3,
+            "img": "https://product.hstatic.net/1000321269/product/aq5b8jv5-1-weqt-hinh_nghieng_trai-0_e019f292252e40298aa4c4fcdd3bee5c_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 10,
+            "name": "TSUN 1M Bucket",
+            "price": 78,
+            "discount": 45,
+            "category_id": 3,
+            "img": "https://product.hstatic.net/1000321269/product/ban_sao_cua_qld5cw5e-1-btuo-hinh_mat_truoc-0_11d450b81447464bae9ec1d5c01c3567_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 11,
+            "name": "TSUN Monogram Bucket",
+            "price": 77.66,
+            "discount": 45.89,
+            "category_id": 3,
+            "img": "https://product.hstatic.net/1000321269/product/ban_sao_cua_dghm7r62-1-j1an-hinh_mat_truoc-0_f98cd96943664f88805985fe671555a1_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 12,
+            "name": "TSUN Shoulder Bag 2.0",
+            "price": 77.66,
+            "discount": 45.89,
+            "category_id": 4,
+            "img": "https://product.hstatic.net/1000321269/product/ce4a09472e7041ba94ea0bd9ec7ae9fd_eb70a6bc70644c8ba081ac663c0eea8d_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 13,
+            "name": "TSUN 1M Shoulder Bag",
+            "price": 77.66,
+            "discount": 45.89,
+            "category_id": 4,
+            "img": "https://product.hstatic.net/1000321269/product/ban_sao_cua_f6qrr0vm-1-qp58-hinh_theo_yeu_cau-0_7d582f3b667a406fbe88cbf3474a9a8a_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 14,
+            "name": "TSUN Mascot Shoulder Bag",
+            "price": 77.66,
+            "discount": 45.89,
+            "category_id": 4,
+            "img": "https://product.hstatic.net/1000321269/product/2-ba8104-tx01-1_85a003ecc3a445b5abaf80280566ef6c_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 15,
+            "name": "Tsun Velvet Mini Bag - Orange",
+            "price": 77.66,
+            "discount": 45.89,
+            "category_id": 4,
+            "img": "https://product.hstatic.net/1000321269/product/2-ba8104-tx01-5_78eefa88f0974a42add3ca5143ee9daa_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        },
+        {
+            "id": 16,
+            "name": "Tsun Velvet Mini Bag - Orange",
+            "price": 77.66,
+            "discount": 45.89,
+            "category_id": 4,
+            "img": "https://product.hstatic.net/1000321269/product/1-ba9207-tx01-1_2f379b66f1334b03a06215c7e0b878ad_master.jpg",
+            "detail": "TSUN is the first brand of G-Town and the brand that founded G-Town in 2016."
+        }
+    ]
+}
